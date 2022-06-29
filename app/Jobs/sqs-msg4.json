@@ -1,0 +1,13 @@
+{
+  "resourceIds": [
+    28963,
+    51268,
+    166644,
+    166645
+  ],
+  "operation": "update",
+  "entity": "style",
+  "method": "GET",
+  "path": "/28963",
+  "withBody": true
+}

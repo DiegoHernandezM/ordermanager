@@ -1,0 +1,1 @@
+mysqldump -uadmin -pccplocations3300 -h db-locations.c4blrneu07lg.us-west-2.rds.amazonaws.com locations categories category_product variations products colors stores | mysql -uadminoml -pccpoml3300 -h 127.0.0.1 ordermanager
